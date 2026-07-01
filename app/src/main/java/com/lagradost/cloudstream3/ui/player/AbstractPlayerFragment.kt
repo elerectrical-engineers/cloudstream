@@ -66,6 +66,7 @@ const val SKIP_OP_VIDEO_PERCENTAGE = 50
 const val PRELOAD_NEXT_EPISODE_PERCENTAGE = 80
 
 // when the player should mark the episode as watched and resume watching the next
+// the new code
 const val NEXT_WATCH_EPISODE_PERCENTAGE = 90
 
 // when the player should sync the progress of "watched", TODO MAKE SETTING
